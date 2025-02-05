@@ -6,6 +6,10 @@ public class UsoArrays {
 	public static void main(String[] args) {
 		// TODO Esbozo de metodo generado automaticamente
 
+		
+	//Este procedimiento se ha modificado por Javier de Fez Arregui
+		
+		
 		int opcion=Integer.parseInt(JOptionPane.showInputDialog("Dame una opcion (1-2)"));
 
 		if(opcion==1) {
